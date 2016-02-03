@@ -1,5 +1,10 @@
-#include <stdio.h>
-
+﻿#include <stdio.h>
+/*
+USAC
+Facultad de Ingenieria
+Cesar Javier Solares Orozco
+201313819
+*/
 int main()
 {
             int Menu1,Menu2,x,y,z,w,t,p,v,tamanot,tamanop,tamanov,tamanox,tamanoy,tamanoz,tamanow,tamtot,postot;
